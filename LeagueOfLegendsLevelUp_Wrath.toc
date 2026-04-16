@@ -1,11 +1,11 @@
-## Interface: 20504
+## Interface: 30403
 ## Version: 1.0.9
 ## Title:|cffdeadffLeague of Legends|r Level Up!
 ## Author: DonnieDice
 ## Notes: Grats!|n|r   |cff05dffaBy Uivi US-BleedingHollow|r
 
 ## X-Category: UI Media, Questing & Leveling, Audio & Video, Miscellaneous
-## X-Website: https://github.com/donniedice/LoLLU
+## X-Website: https://github.com/donniedice/LeagueOfLegendsLevelUp
 ## X-Curse-Project-ID: 594580
 ## X-Wago-ID: R4N2o46L
 ## X-WoWI-ID: 26255

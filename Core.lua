@@ -5,7 +5,7 @@
 local frame_a = CreateFrame("Frame")
 frame_a:RegisterEvent("PLAYER_LEVEL_UP")
 frame_a:SetScript("OnEvent", function(self, event, ...)
-	PlaySoundFile("Interface\\Addons\\LoLLU\\LoLLU.ogg", "Master")
+	PlaySoundFile("Interface\\Addons\\LeagueOfLegendsLevelUp\\LeagueOfLegendsLevelUp.ogg", "Master")
 end)
 
 -- Mute default level up sound
@@ -22,6 +22,6 @@ local frame_c = CreateFrame("Frame")
 frame_c:RegisterEvent("PLAYER_LOGIN")
 frame_c:SetScript("OnEvent", function(self, event, ...)
 	if event == "PLAYER_LOGIN" then
-		print("|cffdeadffLoLLU - League of Legends Level Up!|r Will no longer be receiving updates. Functionality has been merged into |c2d4b92ffBLU - Better Level Up!|r. If you're a fan of my sound addons, |c2d4b92ffBLU - Better Level Up!|r is available from all addon provider websites. Thank you!")
+		print("|cffdeadffLeagueOfLegendsLevelUp - League of Legends Level Up!|r Will no longer be receiving updates. Functionality has been merged into |c2d4b92ffBLU - Better Level Up!|r. If you're a fan of my sound addons, |c2d4b92ffBLU - Better Level Up!|r is available from all addon provider websites. Thank you!")
 	end
 end)
