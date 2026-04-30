@@ -1,8 +1,9 @@
 ## Interface: 30403
-## Version: 1.0.11
-## Title:|cffdeadffLeague of Legends|r Level Up!
+## Version: 1.0.12
+## Title:  |cffdeadffLeague of Legends|r Level Up|cffdeadff!|r
+## Notes:  Play a League of Legends-inspired level-up sound!  |n|r  |cffdeadffBy DonnieDice|r
+## IconTexture: Interface\AddOns\LeagueOfLegendsLevelUp\media\icon
 ## Author: DonnieDice
-## Notes: Grats!|n|r   |cff05dffaBy Uivi US-BleedingHollow|r
 
 ## X-Category: UI Media, Questing & Leveling, Audio & Video, Miscellaneous
 ## X-Website: https://github.com/donniedice/LeagueOfLegendsLevelUp
