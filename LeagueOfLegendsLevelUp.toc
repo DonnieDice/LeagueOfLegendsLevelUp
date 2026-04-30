@@ -1,9 +1,11 @@
 ## Interface: 120005
-## Version: 1.0.12
-## Title:  |cffdeadffLeague of Legends|r Level Up|cffdeadff!|r
-## Notes:  Play a League of Legends-inspired level-up sound!  |n|r  |cffdeadffBy DonnieDice|r
+## Version: 2.0.0
+## Title:  |cffb8881aLeague of Legends|r Level Up|cffb8881a!|r
+## Notes:  Play a League of Legends-inspired level-up sound!  |n|r  |cffb8881aBy DonnieDice|r
 ## IconTexture: Interface\AddOns\LeagueOfLegendsLevelUp\media\icon
 ## Author: DonnieDice
+## SavedVariables: LOLLUSettings
+## RequiredDeps: RGX-Framework
 
 ## X-Category: UI Media, Questing & Leveling, Audio & Video, Miscellaneous
 ## X-Website: https://github.com/donniedice/LeagueOfLegendsLevelUp
@@ -11,4 +13,5 @@
 ## X-Wago-ID: R4N2o46L
 ## X-WoWI-ID: 26255
 
-Core.lua
+data\locales.lua
+data\core.lua
