@@ -9,11 +9,10 @@ local RGX = assert(_G.RGXFramework, "LOLLU: RGX-Framework not loaded")
 
 LOLLU = LOLLU or {}
 
-local ADDON_VERSION = "2.0.0"
+local ADDON_VERSION = "2.0.1"
 local ADDON_NAME = "LeagueOfLegendsLevelUp"
-local ICON_PATH = "|Tinterface/addons/LeagueOfLegendsLevelUp/media/icon:16:16|t"
-local PREFIX = ICON_PATH .. " |cffdeadffLOLLU:|r"
-local TITLE = "[|cffdeadffL|r|cffffffffeague of Legends|r |cffdeadffL|r|cffffffffevel|r |cffdeadffU|r|cffdeadffp|r|cffdeadff!|r]"
+local PREFIX = "|Tinterface/addons/LeagueOfLegendsLevelUp/media/icon:16:16|t - |cffffffff[|r|cffdeadffLOLLU|r|cffffffff]|r "
+local TITLE = "|Tinterface/addons/LeagueOfLegendsLevelUp/media/icon:18:18|t [|cffdeadffL|r|cffffffffeague of Legends|r |cffdeadffL|r|cffffffffevel|r |cffdeadffU|r|cffdeadffp|r|cffdeadff!|r]"
 
 LOLLU.version = ADDON_VERSION
 LOLLU.addonName = ADDON_NAME
